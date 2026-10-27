@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://slangry.github.io/bright-little-learners/sitemap.xml
